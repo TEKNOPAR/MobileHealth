@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\EREN\Desktop\android-pedometer-master1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3178362320bcf51228835b60ff978efadfd1f783">
+        <dex dex="C:\Users\EREN\Desktop\android-pedometer-master1\app\build\intermediates\pre-dexed\debug\classes-d37be5cc7d714bd255be5fdaaafc2644ac94cff8.jar" />
+    </item>
+    <item
+        jar="C:\Users\EREN\Desktop\android-pedometer-master1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
+        <dex dex="C:\Users\EREN\Desktop\android-pedometer-master1\app\build\intermediates\pre-dexed\debug\classes-1fb7c2f671b466fae1e8d859dd1f9d2a86d0dc4b.jar" />
+    </item>
+    <item
+        jar="C:\Users\EREN\Desktop\android-pedometer-master1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="C:\Users\EREN\Desktop\android-pedometer-master1\app\build\intermediates\pre-dexed\debug\classes-f9069e12c3e54457b85ed347a4a8b85b681556ef.jar" />
+    </item>
+    <item
+        jar="C:\Users\EREN\Desktop\android-pedometer-master1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcb5b75baf05d92e61d5706737200ee55949f97b">
+        <dex dex="C:\Users\EREN\Desktop\android-pedometer-master1\app\build\intermediates\pre-dexed\debug\classes-2c07e5413e2798e184dc554dbad52020437fff2b.jar" />
+    </item>
+    <item
+        jar="C:\Users\EREN\Desktop\android-pedometer-master1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
+        <dex dex="C:\Users\EREN\Desktop\android-pedometer-master1\app\build\intermediates\pre-dexed\debug\classes-2e6206cd1f822571c26a3286acc5a35b1c72f99e.jar" />
+    </item>
+    <item
+        jar="C:\Users\EREN\Desktop\android-pedometer-master1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b92002cb2f0e11a226ac5bac6dff1dc2a9d0b774">
+        <dex dex="C:\Users\EREN\Desktop\android-pedometer-master1\app\build\intermediates\pre-dexed\debug\classes-c605ca952520b6269bcbc0d7bbc4cba65cf6f462.jar" />
+    </item>
+    <item
+        jar="C:\Users\EREN\Desktop\android-pedometer-master1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="041d93cf0533591c29d1d7263b2fa114dbfb20bd">
+        <dex dex="C:\Users\EREN\Desktop\android-pedometer-master1\app\build\intermediates\pre-dexed\debug\classes-91a6fb5bcc57a6120a01e56288bdf4a6c5698257.jar" />
+    </item>
+    <item
+        jar="C:\Users\EREN\Desktop\android-pedometer-master1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="997773777cf3904c11d6764fe3b7668538220e49">
+        <dex dex="C:\Users\EREN\Desktop\android-pedometer-master1\app\build\intermediates\pre-dexed\debug\classes-27a6592079c7ba83607cc19ac769af027e0cfe54.jar" />
+    </item>
+    <item
+        jar="C:\Users\EREN\Desktop\android-pedometer-master1\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\EREN\Desktop\android-pedometer-master1\app\build\intermediates\pre-dexed\debug\classes-0eea64a27475dbd16b501f751e84230b86ee4c07.jar" />
+    </item>
+    <item
+        jar="C:\Users\EREN\Desktop\android-pedometer-master1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3c729e6d76a36c5dc27e6a4c4009296f49eaa88a">
+        <dex dex="C:\Users\EREN\Desktop\android-pedometer-master1\app\build\intermediates\pre-dexed\debug\classes-22c17b29706020a76ed575b10fb356668c9c2387.jar" />
+    </item>
+    <item
+        jar="C:\Users\EREN\Desktop\android-pedometer-master1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\EREN\Desktop\android-pedometer-master1\app\build\intermediates\pre-dexed\debug\classes-5ab3b63f7e3a38a6552379bd127bcb414c1b7239.jar" />
+    </item>
+    <item
+        jar="C:\Users\EREN\Desktop\android-pedometer-master1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="482de223655d06253cc6a4955d653f8994169500">
+        <dex dex="C:\Users\EREN\Desktop\android-pedometer-master1\app\build\intermediates\pre-dexed\debug\classes-09987844b6f21512f0599e236ec3e79618c97f6a.jar" />
+    </item>
+    <item
+        jar="C:\Users\EREN\Desktop\android-pedometer-master1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="17449c47df35c754b257532052f1270c444f7993">
+        <dex dex="C:\Users\EREN\Desktop\android-pedometer-master1\app\build\intermediates\pre-dexed\debug\classes-8ab7fd3eec281cd7f4f901702e129004db792e81.jar" />
+    </item>
+    <item
+        jar="C:\Users\EREN\Desktop\android-pedometer-master1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d294caf562c4c678b2ef351662a0ca6f1a4d06c0">
+        <dex dex="C:\Users\EREN\Desktop\android-pedometer-master1\app\build\intermediates\pre-dexed\debug\classes-59f5aeb7d098d4b815834b92cb1c0afd16f0c53e.jar" />
+    </item>
+    <item
+        jar="C:\Users\EREN\Desktop\android-pedometer-master1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="97f3b099801a9ad9d70e835b9125273e986eb68d">
+        <dex dex="C:\Users\EREN\Desktop\android-pedometer-master1\app\build\intermediates\pre-dexed\debug\classes-baa93c28a174ecab5b9a747ddda9557b039397fc.jar" />
+    </item>
+    <item
+        jar="C:\Users\EREN\Desktop\android-pedometer-master1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="993834cb17d07d51b92db89d2c330243592ebf77">
+        <dex dex="C:\Users\EREN\Desktop\android-pedometer-master1\app\build\intermediates\pre-dexed\debug\classes-5e04dd6c8f3e071e85054092b8639b9f2cf81592.jar" />
+    </item>
+    <item
+        jar="C:\Users\EREN\Desktop\android-pedometer-master1\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="C:\Users\EREN\Desktop\android-pedometer-master1\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-1db05e440fd32b6e5af94c0c3de9df65d77d35c2.jar" />
+    </item>
+    <item
+        jar="C:\Users\EREN\Desktop\android-pedometer-master1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d61920aba361832a9545a43fa8c9453eb02f18f7">
+        <dex dex="C:\Users\EREN\Desktop\android-pedometer-master1\app\build\intermediates\pre-dexed\debug\classes-684e0bd57c63573cfff2bacbe1dbfb22c8ad4381.jar" />
+    </item>
+    <item
+        jar="C:\Users\EREN\Desktop\android-pedometer-master1\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="C:\Users\EREN\Desktop\android-pedometer-master1\app\build\intermediates\pre-dexed\debug\classes-eacec8f2d648c58f9cb0481cab5c999d5d64e892.jar" />
+    </item>
+    <item
+        jar="C:\Users\EREN\Desktop\android-pedometer-master1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="325788a04b436a0bccbc5b4c54cf0f12ebdcbd2d">
+        <dex dex="C:\Users\EREN\Desktop\android-pedometer-master1\app\build\intermediates\pre-dexed\debug\classes-13c4ea0288440e4f4a8a6e9f45322cc27e95c588.jar" />
+    </item>
+    <item
+        jar="C:\Users\EREN\Desktop\android-pedometer-master1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="C:\Users\EREN\Desktop\android-pedometer-master1\app\build\intermediates\pre-dexed\debug\classes-9279f737f75885b003d2bf33b099f708bacffec6.jar" />
+    </item>
+    <item
+        jar="C:\Users\EREN\Desktop\android-pedometer-master1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9cf8c0ef60847621c7ad00b4f78dbfc9daba4af2">
+        <dex dex="C:\Users\EREN\Desktop\android-pedometer-master1\app\build\intermediates\pre-dexed\debug\classes-02c4c034600746c75696c166d6fcac03fe1c4994.jar" />
+    </item>
+    <item
+        jar="C:\Users\EREN\Desktop\android-pedometer-master1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="C:\Users\EREN\Desktop\android-pedometer-master1\app\build\intermediates\pre-dexed\debug\classes-6da72966bed17ed31c165dea94bc2bd837658685.jar" />
+    </item>
+    <item
+        jar="C:\Users\EREN\Desktop\android-pedometer-master1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="95758a2905669affbffc5ddd262921d375674fad">
+        <dex dex="C:\Users\EREN\Desktop\android-pedometer-master1\app\build\intermediates\pre-dexed\debug\classes-8959a767dafd91cc41a827dc0514c067304d9fb7.jar" />
+    </item>
+    <item
+        jar="C:\Users\EREN\Desktop\android-pedometer-master1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d93480da1d303122ee67dc3bc23e6297bdef9951">
+        <dex dex="C:\Users\EREN\Desktop\android-pedometer-master1\app\build\intermediates\pre-dexed\debug\classes-591a00a6495dbd85c39649476ffa3c50ae72022a.jar" />
+    </item>
+    <item
+        jar="C:\Users\EREN\Desktop\android-pedometer-master1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3b05c18f60969ecc2ba49c0409c4b96be2d9cb0c">
+        <dex dex="C:\Users\EREN\Desktop\android-pedometer-master1\app\build\intermediates\pre-dexed\debug\classes-17e0b4cc82136e8ccb3fd8a898768d9d02be1e9a.jar" />
+    </item>
+    <item
+        jar="C:\Users\EREN\Desktop\android-pedometer-master1\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\EREN\Desktop\android-pedometer-master1\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-28fd941411ca3bb3105b03d686b2f552837f62d5.jar" />
+    </item>
+
+</items>
